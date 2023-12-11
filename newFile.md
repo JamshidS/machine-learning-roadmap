@@ -4,3 +4,5 @@
 - this is my second commit on new branch
 - I am on master branch
 - changing some files
+- testing
+- repeating git branches
