@@ -95,4 +95,6 @@
 
 - **Practice:**
   - Kaggle, GitHub for code repositories
+- **Public APIs For Data Gathering**
+- [Public APIs](https://github.com/public-apis/public-apis)
 
